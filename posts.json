@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "content": "8745"
+    },
+    {
+      "id": 2,
+      "title": "json-server2",
+      "author": "typicode2",
+      "content": "845"
+    },
+    {
+      "title": "互联网",
+      "content": "8745",
+      "categories": [
+        "Node.js"
+      ],
+      "author": "Joy",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
